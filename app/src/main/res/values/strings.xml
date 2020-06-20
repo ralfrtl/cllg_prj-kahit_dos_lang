@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KahitDosLang</string>
+    <string name="Score">0</string>
+    <string name="Color">color</string>
+    <string name="Left">L</string>
+    <string name="Right">R</string>
+    <string name="Start">tap the screen to start</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Resume">resume</string>
+    <string name="Retry">tap the screen to retry</string>
+</resources>
